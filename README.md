@@ -3,11 +3,11 @@ A discord bot, coded with python for essential clock-in/clock-out/pause function
 
 ⏩⏩⏩
 # Essential commands : 
-/totalclockinreset - Resets all clock-in data
-/showclockin @user - Displays the total time the user has been clocked-in
-/showtotal - Displays all of the users that were clocked-in
-/resetclockin @user - Resets a member's clock-in data
-/showembed - sends the embed with the buttons
+- /totalclockinreset - Resets all clock-in data
+- /showclockin @user - Displays the total time the user has been clocked-in
+- /showtotal - Displays all of the users that were clocked-in
+- /resetclockin @user - Resets a member's clock-in data
+- /showembed - sends the embed with the buttons
 
 ⏩⏩⏩
 # Problems (i didn't fix) :
